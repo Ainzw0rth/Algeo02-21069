@@ -14,11 +14,15 @@
 
 ### Table of Contents
 
-1. [Cara Menjalankan Program](#cara-menjalankan-program)
-2. [Tekonologi yang Digunakan](#tekonologi-yang-digunakan)
-3. [Tampilan Menu](#tampilan-menu)
-4. [Cara Menggunakan](#cara-menggunakan)
-5. [Contoh Penggunaan](#contoh-penggunaan)
+1. [Deskripsi Program](#deskripsi-program)
+2. [Cara Menjalankan Program](#cara-menjalankan-program)
+3. [Tekonologi yang Digunakan](#tekonologi-yang-digunakan)
+4. [Tampilan Menu](#tampilan-menu)
+5. [Cara Menggunakan](#cara-menggunakan)
+6. [Contoh Penggunaan](#contoh-penggunaan)
+
+### Deskripsi Program
+Program ini adalah program pengenalan wajah dengan menggunakan metode eigenface. Program menggunakan kumpulan citra wajah yang sudah disimpan pada database lalu berdasarkan kumpulan citra wajah tersebut, program dapat mempelajari bentuk wajah lalu mencocokkannya dengan citra wajah di database yang telah dipelajarinya. 
 
 ### Cara Menjalankan Program
 
